@@ -4,4 +4,4 @@ endpoints:
 - name: my-service-endpoint
   service:
      port: 3000
-  type: REST
+  type: docker
